@@ -13,9 +13,4 @@ the Bayes factor
 *  BF_twohyp.m - a function for computing the pair-wise similarity matrix, where the hyperparameters are optimised for each pair of time courses.
 *  gpRegression.m - a function to do 1-D GP regression.
 *  gpml-matlab-version-number/ - the GPML toolbox from http://www.gaussianprocess.org/gpml/code/matlab/doc/
-<<<<<<< HEAD
-
-=======
->>>>>>> afb9bd13af8e1588a98d2facba62545d4b33cfa6
-
 
