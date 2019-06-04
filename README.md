@@ -1,4 +1,4 @@
-Similarity measure for sparse time course data wiht Gaussian processes
+Similarity measure for sparse time course data with Gaussian processes
 ================
 Zijing Liu
 2018-11-08
