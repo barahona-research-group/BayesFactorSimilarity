@@ -12,8 +12,8 @@ a Bayes factor. It uses the GPML toolbox (http://www.gaussianprocess.org/gpml/co
 * BF_onehyp.m - a function for computing the pair-wise similarity matrix, where the hyperparameters are optimised for the whole dataset.
 * BF_twohyp.m - a function for computing the pair-wise similarity matrix, where the hyperparameters are optimised for each pair of time courses.
 * BF_async.m - a function for computing the pair-wise similarity matrix, where the hyperparameters are optimised for the whole dataset and the time courses are asynchronous.
-* gpRegression.m - a function to do 1-D GP regression.
-* cluster_dist_matrix.m - a function to do clustering given a distance matrix.
+* script_synthetic_data.m - script to test on the synthetic data
+* script_gene_data.m - script to cluster the gene expression data
 
 * lib/ - the required Matlab packages including:
 	* GPML toolbox for Gaussian process
