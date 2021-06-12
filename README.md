@@ -25,4 +25,5 @@ a Bayes factor. It uses the GPML toolbox (http://www.gaussianprocess.org/gpml/co
 
 References
 ------------
-Liu, Zijing, and Mauricio Barahona. "Similarity measure for sparse time course data based on Gaussian processes." arXiv preprint arXiv:2102.12342 (2021). Accepted at Uncertainty in Artifical Intelligence conference, UAI 2021
+Liu, Zijing, and Mauricio Barahona. "Similarity measure for sparse time course data based on Gaussian processes." arXiv preprint arXiv:2102.12342 (2021). Accepted at 37th
+Conference on Uncertainty in Artificial Intelligence (UAI 2021), July 27-29, 2021.
